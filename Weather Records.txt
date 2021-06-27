@@ -1,0 +1,79 @@
+-------------------------------------------------------------
+Weather Stats for - VADODARA  || 25 Jun 2021 | 08:52:30 AM
+-------------------------------------------------------------
+Current temperature is: 33.98 deg C
+Current weather desc  : haze
+Current Humidity      : 62 %
+Current wind speed    : 2.57 kmph
+
+-------------------------------------------------------------
+Weather Stats for - VAPI  || 25 Jun 2021 | 08:54:40 AM
+-------------------------------------------------------------
+Current temperature is: 30.92 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 61 %
+Current wind speed    : 4.25 kmph
+
+-------------------------------------------------------------
+Weather Stats for - BHARUCH  || 25 Jun 2021 | 08:55:16 AM
+-------------------------------------------------------------
+Current temperature is: 32.91 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 50 %
+Current wind speed    : 2.59 kmph
+
+-------------------------------------------------------------
+Weather Stats for - DAHOD  || 25 Jun 2021 | 08:55:50 AM
+-------------------------------------------------------------
+Current temperature is: 33.79 deg C
+Current weather desc  : light rain
+Current Humidity      : 47 %
+Current wind speed    : 5.24 kmph
+
+-------------------------------------------------------------
+Weather Stats for - SURAT  || 25 Jun 2021 | 08:56:23 AM
+-------------------------------------------------------------
+Current temperature is: 32.99 deg C
+Current weather desc  : broken clouds
+Current Humidity      : 66 %
+Current wind speed    : 1.03 kmph
+
+Weather Stats for - RAJKOT  || 25 Jun 2021 | 08:56:56 AM
+-------------------------------------------------------------
+Current temperature is: 34.98 deg C
+Current weather desc  : scattered clouds
+Current Humidity      : 46 %
+Current wind speed    : 4.12 kmph
+
+-------------------------------------------------------------
+Weather Stats for - AHMEDABAD  || 25 Jun 2021 | 08:58:01 AM
+-------------------------------------------------------------
+Current temperature is: 36.02 deg C
+Current weather desc  : scattered clouds
+Current Humidity      : 56 %
+Current wind speed    : 1.54 kmph
+
+
+-------------------------------------------------------------
+Weather Stats for - GANDHINAGAR  || 25 Jun 2021 | 09:11:45 AM
+-------------------------------------------------------------
+Current temperature is: 35.99 deg C
+Current weather desc  : scattered clouds
+Current Humidity      : 56 %
+Current wind speed    : 1.54 kmph
+
+-------------------------------------------------------------
+Weather Stats for - GODHRA  || 25 Jun 2021 | 09:14:50 AM
+-------------------------------------------------------------
+Current temperature is: 33.39 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 49 %
+Current wind speed    : 3.86 kmph
+
+-------------------------------------------------------------
+Weather Stats for - NAVSARI  || 25 Jun 2021 | 09:15:24 AM
+-------------------------------------------------------------
+Current temperature is: 32.94 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 61 %
+Current wind speed    : 4.13 kmph
